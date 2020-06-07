@@ -1,0 +1,40 @@
+body {
+  background: #5A0001;
+  text-align: center;
+}
+
+header {
+  color: red;
+}
+
+#couple-photo {
+  max-width: 800px;
+  width: 100%;
+}
+
+#couple-caption {
+  margin: -2px 0px 0px 0px;
+  font-style: italic;
+}
+
+.notificationGIF {
+  max-width: 500px;
+  width: 100%;
+}
+
+section {
+  color: #EDB88B;
+}
+
+button {
+  border: 2px solid red;
+  border-radius: 25px;
+  background-color: #EDB88B;
+  margin: 20px 0px 0px 0px;
+  width: 200px;
+  height: 50px;
+  font-size: 15px;
+  font-weight: bold;
+  outline: none;
+  color: red;
+}
